@@ -39,15 +39,12 @@ body{
     justify-content: space-between;
 }
 
-
 .container .container_btn{  
     display: flex;
     justify-content: space-between;
     height: 70px;
-    width: 250px;        
-
+    width: 250px;     
 }
-
 
 .container .container_btn2{  
     display: flex;
