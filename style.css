@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+
+
+body{
+    margin: 0;
+    background-color: #42124C;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+
+.container{
+    width: 600px;
+    /* border: 2px solid orangered;*/
+    height: auto;
+    margin: auto;
+    margin-top: 5%;
+    padding: 15px;
+    
+}
+
+.container .ringue{
+    display: flex;
+    justify-content: space-between;   
+    
+}
+
+
+.adv1{
+    width: 250px;
+    height: 250px;
+    border: 1px solid wheat;
+    background-image: url("LULA.jpg");
+    background-size: cover;
+}
+
+
+.container_botoes{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.container .container_btn{  
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    width: 250px;        
+
+}
+
+
+.container .container_btn2{  
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    width: 250px;        
+
+}
+
+
+#btn_menos_adv1{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    background-color: #8AFF00;
+    font-size: 29px;
+}
+
+
+#btn_menos_adv2{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    background-color: #8AFF00;
+    font-size: 29px;
+}
+
+
+#valor_btn1{
+    width: 140px;
+    height: 50px;    
+    margin-top: 1px;
+    background-color: gainsboro;
+    text-align: center;
+    margin: auto;
+    
+}
+
+
+span{
+    width: 140px;
+    height: 50px;    
+    margin-top: 1px;
+    background-color: gainsboro;
+    text-align: center;
+    margin: auto;
+    
+}
+
+
+#btn_mais_adv1{
+    width: 50px;
+    height: 50px;
+    margin: 1px;
+    margin: auto;
+    background-color: #8AFF00;
+    font-size: 29px;
+}
+
+
+#btn_mais_adv2{
+    width: 50px;
+    height: 50px;
+    margin: 1px;
+    margin: auto;
+    background-color: #8AFF00;
+    font-size: 29px;
+}
+
+
+.container_btn{
+    display: flex;
+    width: 250px;
+    height: 70px;
+    border: 1px solid white;
+    
+}
+
+
+.container_btn2{
+    display: flex;
+    width: 250px;
+    height: 70px;
+    border: 1px solid white;
+       
+}
+
+
+.adv2{
+    width: 250px;
+    height: 250px;
+    border: 1px solid wheat;
+    background-image: url("bolso.jpg");
+    background-size: cover;
+}
+
